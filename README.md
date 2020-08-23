@@ -5,7 +5,7 @@
 
 <p  align="center"><img src="https://github.com/ChristosBouronikos/ChristosBouronikos/blob/master/bio.gif" alt="bio gif" >
 
-## Contact Info
+# ℹ️ Contact Info
 
 
 <!--
@@ -41,7 +41,7 @@
 - 🎓⚡ **𝙸'm currently doing my Master's (M.Sc.) in Electrical Engineering & Computer Engineering. 🔌 ⚙️ 🔋**
 - 💻⌛ **In my free time I write software 🖋️📋, ranging from serious applications(😒📱) to themes and UI modifications(🎀🔆).**
 
-## 📝 Languages & Technologies I use:
+# 📝 Languages & Technologies I use:
 
 ![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)
