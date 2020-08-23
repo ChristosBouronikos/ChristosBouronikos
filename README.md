@@ -59,19 +59,11 @@
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white)
 
 
-<div class="row">
-  <div class="column">
+<div>
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Android_Studio_icon.svg" alt="Android Studio" width="80"/>
-  </div>
-  <div class="column">
-   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/IntelliJ_IDEA_Logo.svg" alt="IntelliJ Idea" width="80">
-  </div>
-  <div class="column">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/IntelliJ_IDEA_Logo.svg" alt="IntelliJ Idea" width="80">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/PyCharm_Logo.svg" alt="Pycharm" width="80">
-  </div>
-<div class="column">
     <img src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" alt="Pycharm" width="80">
-  </div>
 </div>
 
 ![dino](https://github.com/ChristosBouronikos/ChristosBouronikos/blob/master/dino.gif)
