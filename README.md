@@ -1,6 +1,6 @@
 
 <p  align="center">
-<img src="https://github.com/ChristosBouronikos/ChristosBouronikos/blob/master/bio.gif" alt="bio gif" width="600" >
+<img src="https://github.com/ChristosBouronikos/ChristosBouronikos/blob/master/bio.gif" alt="bio gif" />
 
 # ℹ️ Contact Info
 
