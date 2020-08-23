@@ -3,7 +3,7 @@
 ![bio](bio.gif)
 -->
 
-<p  align="center"><img src="bio.gif" alt="bio gif" >
+<p  align="center"><img src="https://github.com/ChristosBouronikos/ChristosBouronikos/blob/master/bio.gif" alt="bio gif" >
 
 ## Contact Info
 
