@@ -69,13 +69,9 @@
   <div class="column">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/a1/PyCharm_Logo.svg" alt="Pycharm" width="80">
   </div>
-
 <div class="column">
     <img src="https://user-images.githubusercontent.com/674621/71187801-14e60a80-2280-11ea-94c9-e56576f76baf.png" alt="Pycharm" width="80">
   </div>
-                                                                                                            
-                                                                                                            
-                                                                                                            
 </div>
 
 ![dino](https://github.com/ChristosBouronikos/ChristosBouronikos/blob/master/dino.gif)
