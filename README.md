@@ -24,9 +24,9 @@
 </div>
 </div>
 
-<a href="https://www.buymeacoffee.com/chrisbouronikos" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" width="180" height="40"></a>
+<a href="https://www.buymeacoffee.com/chrisbouronikos" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" width="200" height="50"></a>
 
-<a href="https://paypal.me/christosbouronikos" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/PayPal.svg/1920px-PayPal.svg.png" alt="Buy Me A Coffee" width="180" height="40"></a>
+<a href="https://paypal.me/christosbouronikos" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/PayPal.svg/1920px-PayPal.svg.png" alt="Buy Me A Coffee" width="180" height="50"></a>
 
 
 # :book: About Me
