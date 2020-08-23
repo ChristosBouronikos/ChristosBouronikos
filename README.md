@@ -1,5 +1,14 @@
 ### Hi there 👋
 
+
+
+![dino](https://github.com/ChristosBouronikos/ChristosBouronikos/blob/master/dino.gif)
+
+
+
+
+
+
 <!--
 **ChristosBouronikos/ChristosBouronikos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
