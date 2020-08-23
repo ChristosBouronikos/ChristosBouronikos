@@ -30,6 +30,9 @@
 
 
 # :book: About Me
+<span style="font-family:Papyrus; font-size:48px;">LOVE!</span>
+
+
 - 🖥🤯 **I am a Software Developer.**
 - 🎓📐 **𝙸've got a Bachelor's (B.Sc.) in Mathematics. 🤓**
 - 🎓⚡ **𝙸'm currently doing my Master's (M.Sc.) in Electrical Engineering & Computer Engineering. 🔌 ⚙️ 🔋**
