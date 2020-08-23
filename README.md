@@ -1,19 +1,12 @@
 
-<!--
-![bio](bio.gif)
--->
-
-<p  align="center"><img src="https://github.com/ChristosBouronikos/ChristosBouronikos/blob/master/bio.gif" alt="bio gif" >
+<p  align="center">
+<img src="https://github.com/ChristosBouronikos/ChristosBouronikos/blob/master/bio.gif" alt="bio gif" width="600" >
 
 # ℹ️ Contact Info
 
-
 <!--
-
 [ ![Linkedin Badge](https://img.shields.io/badge/-Christos%20Bouronikos-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/christosbouronikos/)](https://www.linkedin.com/in/christosbouronikos/)
 [![Gmail Badge](https://img.shields.io/badge/-chrisbouronikos@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:chrisbouronikos@gmail.com)](mailto:chrisbouronikos@gmail.com)
-
-
 -->
 
 
