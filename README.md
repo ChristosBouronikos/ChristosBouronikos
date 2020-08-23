@@ -20,13 +20,13 @@
 <div class="row">
   <div class="column">
 <a href="https://www.linkedin.com/in/christosbouronikos">
-    <img src="https://img.shields.io/badge/-Christos%20Bouronikos-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn" width="180"/>
+    <img src="https://img.shields.io/badge/-Christos%20Bouronikos-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn" width="200" height="29" />
 </a>  
 </div>
   
   <div class="column">
 <a href="mailto:chrisbouronikos@gmail.com">
-    <img src="https://img.shields.io/badge/-chrisbouronikos@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail" width="180" />
+    <img src="https://img.shields.io/badge/-chrisbouronikos@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail" width="270" height="29" />
 </a>  
 </div>                                                                                                
                                                                                                             
@@ -36,31 +36,29 @@
 
 
 # :book: About Me
-- 🖥  𝙸'𝚖 𝚊 𝚜𝚘𝚏𝚝𝚠𝚊𝚛𝚎 𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛.
-- 🎓 **𝙸've got a Bachelor's (B.Sc.) in Mathematics.**
-- 🎓 **𝙸'm currently doing my Master's (M.Sc.) in Electrical Engineering.**
-- 💻 In my free time I write software, ranging from serious applications to themes and UI modifications.
+- 🖥🤯 **I am a Software Developer.**
+- 🎓📐 **𝙸've got a Bachelor's (B.Sc.) in Mathematics. 🤓**
+- 🎓⚡ **𝙸'm currently doing my Master's (M.Sc.) in Electrical Engineering & Computer Engineering. 🔌 ⚙️ 🔋**
+- 💻⌛ **In my free time I write software 🖋️📋, ranging from serious applications(😒📱) to themes and UI modifications(🎀🔆).**
 
-## 📝 Languages I use:
+## 📝 Languages & Technologies I use:
 
 ![Python](https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white)
+![C](https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)
+
 ![SQL](https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
 ![HTML](https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 ![Javascript](https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-![C](https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)
 
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?&style=for-the-badge&logo=markdown&logoColor=white)
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
 ![Github](https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white)
 
 ---
-
-## ⌨ Technologies I use:
 
 <div class="row">
   <div class="column">
