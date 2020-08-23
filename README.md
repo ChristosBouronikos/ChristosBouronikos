@@ -20,12 +20,13 @@
   <div class="column">
 <a href="mailto:chrisbouronikos@gmail.com">
     <img src="https://img.shields.io/badge/-chrisbouronikos@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white" alt="Gmail" width="270" height="29" />
-</a>  
-</div>                                                                                                
-                                                                                                            
+</a>
+</div>
 </div>
 
+<a href="https://www.buymeacoffee.com/chrisbouronikos" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" width="240" height="60"></a>
 
+<a href="https://paypal.me/christosbouronikos" target="_blank"><img src="https://i.imgur.com/Fc70eDk.png" alt="Buy Me A Coffee" width="200" height="60"></a>
 
 
 # :book: About Me
