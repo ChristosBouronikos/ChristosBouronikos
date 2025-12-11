@@ -1,6 +1,7 @@
 # Hello there 👋
 
-I am **Christos Bouronikos**, a PhD student at the **University of Thessaly**.  
+I am **Christos Bouronikos**, a PhD student at the **University of Thessaly**. 
+
 My doctoral research focuses on **how people with visual impairment perceive and navigate space**, using  
 **EEG recordings**, advanced **signal processing**, and **machine learning** methods.
 
