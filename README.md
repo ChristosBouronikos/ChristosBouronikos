@@ -1,42 +1,45 @@
+# Hello there 👋
 
-# :book: About Me
-## Hi, my name is Christos Bouronikos and welcome to my Github profile!
-### I am a Mathematician (BSc) with a Master's (MSc) in Applied Informatics
+I am **Christos Bouronikos**, a PhD student at the **University of Thessaly**.  
+My doctoral research focuses on **how people with visual impairment perceive and navigate space**, using  
+**EEG recordings**, advanced **signal processing**, and **machine learning** methods.
 
-🎓I’m currently working as a researcher at the University of Thessaly.
+I care deeply about **accessibility** and **digital accessibility**, and I aim for my research, tools, and data  
+workflows to support more inclusive technologies and environments for people with disabilities.
 
-✒️ I’m  interested in **Machine Learning**, **Deep Learning**, and **Natural Language Processing**.
+I hold a **BSc in theoretical Mathematics** and an **MSc in Applied Informatics** from the Department of Electrical Engineering and Computer Engineering of the University of Thessaly.
 
-💬 Feel free to get in touch with me
+My work as a researcher is at the intersection of:
 
+- EEG signal processing and time–frequency analysis  
+- Spatial cognition and navigation in visually impaired populations 
+- Machine Learning and Deep Learning for neural data
+- Accessibility, digital accessibility, assistive technology, and inclusive design  
 
-# 🔖 Get in touch with me:
+---
 
+## Research interests
 
-[![icons8-linkedin-96](https://img.icons8.com/fluency/48/000000/linkedin.png)](https://www.linkedin.com/in/christosbouronikos)
-[![icons8-gmail-logo-96](https://img.icons8.com/color/48/000000/gmail--v1.png)](mailto:chrisbouronikos@gmail.com)
-[![icons8-paypal-96](https://img.icons8.com/color/48/000000/paypal.png)](https://paypal.me/christosbouronikos)
+- Neural correlates of spatial perception, mental mapping, and navigation in visual impairment  
+- Neural markers of navigation, attention, and cognitive load  
+- EEG methodology: preprocessing, artifact correction, time-frequency analysis, connectivity, and feature engineering  
+- Machine Learning and Deep Learning models for EEG and other physiological time series  
+- Quantifying cognitive load, attention, and task demands in realistic environments  
+- Accessible experimental design, inclusive human-computer interaction, digital accessibility, and assistive technologies  
+- Open, reproducible, and well documented research workflows in computational neuroscience  
 
+---
 
+## Tools & skills
 
-### Languages and Software:
+- **Programming & analysis:** Python, R, MATLAB, SQL  
+- **Scientific computing:** NumPy, SciPy,pandas, scikit-learn, MNE-Python  
+- **Data & visualization:** ggplot2, matplotlib
 
-![icons8-python-48](https://user-images.githubusercontent.com/74146104/166147977-5062414c-1a16-4ee6-b234-7b1bfb49a282.png)
-![icons8-jupyter-48](https://img.icons8.com/fluency/48/000000/jupyter.png)
-![icons8-r-project-32](https://img.icons8.com/fluency/48/000000/r-project.png)
-![icons8-java-48](https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png)
-![icons8-html-32](https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-html-computer-programming-flaticons-flat-flat-icons.png)
-![icons8-css-32](https://img.icons8.com/external-flaticons-flat-flat-icons/64/000000/external-css-computer-programming-flaticons-flat-flat-icons.png)
-![icons8-php-32](https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-php-web-development-flaticons-lineal-color-flat-icons.png)
-![icons8-sql-32](https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-sql-computer-programming-flaticons-lineal-color-flat-icons.png)
-![icons8-javascript-32](https://img.icons8.com/external-flaticons-lineal-color-flat-icons/64/000000/external-javascript-computer-programming-flaticons-lineal-color-flat-icons.png)
+---
 
-![icons8-visual-studio-code-2019-32](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png)
-![icons8-rstudio-32](https://img.icons8.com/fluency/48/000000/rstudio.png)
-![icons8-intellij-idea-32](https://img.icons8.com/color/48/000000/intellij-idea.png)
-![icons8-pycharm-32](https://img.icons8.com/color/48/000000/pycharm.png)
-![icons8-android-studio-32](https://img.icons8.com/color/48/000000/android-studio--v3.png)
+## Get in touch
 
-![icons8-git-32](https://img.icons8.com/color/48/000000/git.png)
-![icons8-github-32](https://img.icons8.com/nolan/64/github.png)
-
+- LinkedIn: [christosbouronikos](https://www.linkedin.com/in/christosbouronikos)  
+- Email: [chrisbouronikos@gmail.com](mailto:chrisbouronikos@gmail.com)  
+- Support my work: [PayPal](https://paypal.me/christosbouronikos)
