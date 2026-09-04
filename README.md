@@ -42,5 +42,5 @@ My work as a researcher is at the intersection of:
 ## Get in touch
 
 - LinkedIn: [christosbouronikos](https://www.linkedin.com/in/christosbouronikos)  
-- Email: [chrisbouronikos@gmail.com](mailto:chrisbouronikos@gmail.com)  
+- Email: [cbouronikos@uth.gr](mailto:cbouronikos@uth.gr) and [chrisbouronikos@gmail.com](mailto:chrisbouronikos@gmail.com)   
 - Support my work: [PayPal](https://paypal.me/christosbouronikos)
